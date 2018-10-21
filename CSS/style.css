@@ -1,0 +1,73 @@
+p.hedhi {
+    font-family: Gill Sans MT;
+    font-size: 100px;
+    font-style: normal;
+    color: rgb(255, 0, 0);
+    position: absolute;
+    top: 0%;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+
+.titre {
+    font-weight: bold;
+    font-size: 80px;
+    font-family: fantasy;
+    color: rgb(23, 56, 87);
+}
+
+div.article {
+    margin: 50cm;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.right {
+    float: right;
+
+}
+
+.backgroudGris1:hover {
+    border: 7px solid black;
+
+}
+
+.backgroudKa7la:hover {
+    border: 7px solid black;
+}
+
+.backgroudGris1 {
+    box-sizing: border-box;
+    border: 1px solid none;
+    display: inline-block;
+    width: 40%;
+    height: 350px;
+    background-color: rgb(225, 226, 228);
+    overflow: hidden;
+    padding: 60px;
+}
+
+.backgroudKa7la {
+    box-sizing: border-box;
+    height: 350px;
+    overflow: hidden;
+    padding: 1px;
+    border: 1px solid none;
+    display: inline-block;
+    width: 40%;
+    background-color: rgb(64, 64, 65);
+    padding: 60px;
+
+}
+
+.pour_margin_left {
+    margin-left: 80px;
+}
+
+.grisEllibechNbadalha {
+    padding: 7px;
+
+}
